@@ -21,8 +21,7 @@ During Sponge Mode, you learn the whole general theory superficially, for exampl
 
 In this mode, delve into each of the 13 core principles of ML, for example: if there is an algorithm for the classification of k-nearest neighborhoods, then write this algorithm ourselves and make a project on it.
 
-*Output: know how to customize the available libraries for our project, know where to tune up in order to change certain parameters of ML algorithm.
-*
+*Output: know how to customize the available libraries for our project, know where to tune up in order to change certain parameters of ML algorithm.*
 
 
 #### Targeted Practice 
