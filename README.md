@@ -45,7 +45,7 @@ Precise list of materials for the Sponge Mode.
 
 
 
-#### Python
+### Python
 
 
 Python is the base of everything. You should learn in order to have an understanding of base concepts of AI libraries. But you should not spend much time on it, just proceed to the next step as you feel a little confidence on the language and have understanding of OOP.
@@ -67,7 +67,7 @@ Reading materials:
 A Byte of Python
 
 
-#### Numpy & Pandas
+### Numpy & Pandas
 
 
 As you will create your ML-algorithms the most of your time you will spend collecting, cleaning and storing data. When you want to manipulate your data and deal with that you should know Numpy and Pandas. They are two strong python libraries. Numpy helps you to work with numerical data. Compute any statistics criteria also includes many functions for linear algebra. Pandas help you to extract many important points and statistics in your data. It keeps your data as a DataFrame which is so strong to see any fact in your data. You can learn about these libraries by their documentation or by taking courses. You should be familiar with the following concepts:
@@ -95,7 +95,7 @@ Pandas Documentation
 
 
 
-#### Data Visualization Libraries
+### Data Visualization Libraries
 
 
 
@@ -129,7 +129,7 @@ MatplotLib Cheatsheets
 
 
 
-#### Theory of Machine Learning
+### Theory of Machine Learning
 
 
 Now, this is the crucial part. At this point we have all prerequisites and start learning and practicing ML. As a machine learning engineer, you should be a master of the following concept:
@@ -173,7 +173,7 @@ FreecodeCamp - ML
 
 
 
-#### SQL and working with DB 
+### SQL and working with DB 
 
 
 This is a bit of optional things to learn at this stage but very useful. As you learn DB, you will be able to store data in an efficient way.
@@ -186,7 +186,7 @@ MySQl - Mosh
 
 
 
-#### Frameworks
+### Frameworks
 
 At this stage you have an understanding of ML-algorithms and know which one to select to a given specific situation. Tensorflow and Ski-Kit have ready-to-use tools that will assist you to focus more on the building ML-program rather than writing code.
 
@@ -194,7 +194,7 @@ At this stage you have an understanding of ML-algorithms and know which one to s
     -Tensorflow
     -SciKit - FreecodeCamp
 
-#### Tensorflow - TechWithTim
+### Tensorflow - TechWithTim
 
 
 
