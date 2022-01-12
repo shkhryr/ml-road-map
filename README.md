@@ -60,12 +60,11 @@ Python is the base of everything. You should learn in order to have an understan
     Object-Oriented Programming
 
 Videos:
-
-Mosh - Programming in Python 
+[Mosh - Programming in Python](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 Reading materials:
 
-A Byte of Python
+[A Byte of Python](https://python.swaroopch.com/)
 
 
 ### Numpy & Pandas
@@ -84,15 +83,15 @@ As you will create your ML-algorithms the most of your time you will spend colle
 
 Videos:
 
-FreecodeCamp - NumPy
+[FreecodeCamp - NumPy](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
-Corey Schafer - Pandas
+[Corey Schafer - Pandas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 Reading Materials:
 
-Numpy Documentation
+[Numpy Documentation](https://numpy.org/doc/1.22/user/whatisnumpy.html)
 
-Pandas Documentation
+[Pandas Documentation](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 
 
 
@@ -114,17 +113,17 @@ You can extract many important facts about your data with Pandas and Numpy. But,
     -Custom your plots
 Videos:
 
-Corey Schafer - Matplotlib
+[Corey Schafer - Matplotlib]
 
-Keith Galli - Pandas
+[Keith Galli - Pandas]
 
-Keith Galli - Solving Real World Data Science Tasks
+[Keith Galli - Solving Real World Data Science Tasks]
 
 Reading Materials:
 
-MatplotLib Documentation
+[MatplotLib Documentation]
 
-MatplotLib Cheatsheets 
+[MatplotLib Cheatsheets]
 
 
 
@@ -162,13 +161,13 @@ Now, this is the crucial part. At this point we have all prerequisites and start
     -t-SNE
     -3Blue1Brown - NN
 
-TechWithTim - ML
+[TechWithTim - ML](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-Standford - ML Theory
+[Standford - ML Theory](https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr)
 
-Coursera - ML
+[Coursera - ML](https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&index=2)
 
-FreecodeCamp - ML
+[FreecodeCamp - ML](https://www.youtube.com/watch?v=NWONeJKn6kc)
 
 
 
@@ -179,9 +178,10 @@ This is a bit of optional things to learn at this stage but very useful. As you 
 
     -MongoDB
     -MySQL
-    -MongoDB - FreecodeCamp
 
-MySQl - Mosh
+[MongoDB - FreecodeCamp](https://www.youtube.com/watch?v=4yqu8YF29cU)
+
+[MySQl - Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
 
 
@@ -192,9 +192,9 @@ At this stage you have an understanding of ML-algorithms and know which one to s
 
     -Ski-Kit Learn
     -Tensorflow
-    -SciKit - FreecodeCamp
 
-Tensorflow - TechWithTim
+[SciKit - FreecodeCamp](https://www.youtube.com/watch?v=0B5eIE_1vpU&)
+[Tensorflow - TechWithTim](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 
 
 
@@ -216,18 +216,18 @@ List of the Most Used algorithms for studying in-depth.
     -Gradient Boosting algorithms
     -Reading Materials
 
-Machine Learning Algorithms
+[Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 
-A Tour of Machine Learning Algorithms
+[A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 
 
 ## 3 | Targeted Practice 
 Building project/projects using one/more ML algorithms.
 
-Kaggle - for exercises on ML
+[Kaggle - for exercises on ML](https://www.kaggle.com/)
 
-Machine Learning Crash Course
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/exercises)
 
 
 
