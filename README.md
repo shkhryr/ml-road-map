@@ -13,32 +13,32 @@ You should divide your learning path into 4 stages:
 
 During Sponge Mode, you learn the whole general theory superficially, for example: using the k-nearest neighbors algorithm. Also, practice each new topic on mini-projects or programs.
 
-_Output: you have a big picture of ML, with theoretical and practical skills.
-_
+*Output: you have a big picture of ML, with theoretical and practical skills.*
+
 
 
 #### The Stage of Deepening
 
 In this mode, delve into each of the 13 core principles of ML, for example: if there is an algorithm for the classification of k-nearest neighborhoods, then write this algorithm ourselves and make a project on it.
 
-_Output: know how to customize the available libraries for our project, know where to tune up in order to change certain parameters of ML algorithm.
-_
+*Output: know how to customize the available libraries for our project, know where to tune up in order to change certain parameters of ML algorithm.
+*
 
 
 #### Targeted Practice 
 
 At this stage, make different kind of projects. During the implementation of the project, you will learn at the same time, as places where there are gaps in knowledge will appear.
 
-_Output: more practical knowledge.
-_
+*Output: more practical knowledge.
+*
 
 
 #### The Era of Specialization
 
 There are many specializations in ML and you won't have enough time to cover them up all. Specializations: computer vision, language analysis, stock market analysis, recommendation system, etc. At this stage, choose your own specialization. 
 
-_Output: specialization in one area.
-_
+*Output: specialization in one area.
+*
 
 
 _________________________
