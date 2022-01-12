@@ -46,6 +46,7 @@ Precise list of materials for the Sponge Mode.
 
 
 ### Python
+![Python](https://telegra.ph/file/b0c3c568f0808da9d0776.png)
 
 
 Python is the base of everything. You should learn in order to have an understanding of base concepts of AI libraries. But you should not spend much time on it, just proceed to the next step as you feel a little confidence on the language and have understanding of OOP.
@@ -68,7 +69,7 @@ A Byte of Python
 
 
 ### Numpy & Pandas
-
+![Numpy&Pandas](https://telegra.ph/file/7cbab836e85d6101ded66.png)
 
 As you will create your ML-algorithms the most of your time you will spend collecting, cleaning and storing data. When you want to manipulate your data and deal with that you should know Numpy and Pandas. They are two strong python libraries. Numpy helps you to work with numerical data. Compute any statistics criteria also includes many functions for linear algebra. Pandas help you to extract many important points and statistics in your data. It keeps your data as a DataFrame which is so strong to see any fact in your data. You can learn about these libraries by their documentation or by taking courses. You should be familiar with the following concepts:
 
@@ -96,9 +97,7 @@ Pandas Documentation
 
 
 ### Data Visualization Libraries
-
-
-
+![Matplotlib](https://telegra.ph/file/5dbaadacb5ff21de03c79.jpg)
 
 You can extract many important facts about your data with Pandas and Numpy. But, if you want to show them to people or companies you should use plots and graphs. Many kinds of plots are available in Matplotlib and Seaborn. You should implement the following concepts:
 
@@ -130,7 +129,7 @@ MatplotLib Cheatsheets
 
 
 ### Theory of Machine Learning
-
+![ML-Therory](https://telegra.ph/file/99b0e9049c7a6ac184c70.jpg)
 
 Now, this is the crucial part. At this point we have all prerequisites and start learning and practicing ML. As a machine learning engineer, you should be a master of the following concept:
 
@@ -174,7 +173,7 @@ FreecodeCamp - ML
 
 
 ### SQL and working with DB 
-
+![ML-Therory](https://telegra.ph/file/95e0a78cb9d9c19a58e82.png)
 
 This is a bit of optional things to learn at this stage but very useful. As you learn DB, you will be able to store data in an efficient way.
 
@@ -187,6 +186,7 @@ MySQl - Mosh
 
 
 ### Frameworks
+![ML-Therory](https://telegra.ph/file/ac69ebfac35a64ef32658.png)
 
 At this stage you have an understanding of ML-algorithms and know which one to select to a given specific situation. Tensorflow and Ski-Kit have ready-to-use tools that will assist you to focus more on the building ML-program rather than writing code.
 
@@ -194,7 +194,7 @@ At this stage you have an understanding of ML-algorithms and know which one to s
     -Tensorflow
     -SciKit - FreecodeCamp
 
-### Tensorflow - TechWithTim
+Tensorflow - TechWithTim
 
 
 
